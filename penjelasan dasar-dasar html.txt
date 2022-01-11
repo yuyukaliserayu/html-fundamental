@@ -1,0 +1,13 @@
+ <!DOCTYPE html> 	<!-- deklarasi ini menjelaskan tipe dokumen dan membantu browser menampilkan halaman web dengan benar -->
+<html>			<!-- ini adalah elemen induk sebuah halaman html -->
+<head>			<!-- elemen yang mengandung meta informasi halaman html -->
+<title>Dasar-dasar html</title>	<!-- akan muncul di title bar halaman web -->
+</head>			<!-- penutup elemen head -->
+
+<body>			<!-- tempat meletakkan semua konten seperti heading, paragraf, images, table, list, dll -->
+
+<h1>This is a Heading</h1>	<!-- heading yang paling besar dan yang paling kecil adalah h6 -->
+<p>This is a paragraph.</p>	<!-- menandakan bahwa ini adalah paragraf -->
+
+</body>
+</html> 
